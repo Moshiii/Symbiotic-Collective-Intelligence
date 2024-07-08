@@ -1,5 +1,5 @@
 # Symbiotic-Collective-Intelligence
-
+---
 **English**
 
 In an era defined by data and AI algorithms, we face a fundamental challenge: Will our civilization and identity be shaped by AI? We must firmly answer: No. The meaning of being human must be defined by humans, not machines.
@@ -37,7 +37,7 @@ Let us move forward together to embrace the future of harmonious coexistence bet
 Star and Watch for future updates
 
 
-
+---
 **中文**
 
 在数据和AI算法定义的时代，我们面临一个根本性挑战：我们的文明和身份是否将由AI来塑造？我们必须坚定地回答：不。人的意义必须由人来定义，而不是机器。
